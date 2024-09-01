@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header ul li{
+  @apply px-2
+}
+
+
+.bg-secondary{
+  background-color:rgb(251, 237, 229)
+}
+
+.mobile-nav{
+  @apply fixed top-10 left-0  w-full h-32
+}
+
+.mobile-nav li{
+  @apply w-full h-full text-center border-b-2
+}
+img{
+  mix-blend-mode: multiply;
+}
+
+
+.project{
+  @apply absolute left-0 right-0 bottom-0 top-0 bg-peacock-green opacity-0 duration-500 hover:opacity-100
+}
+
+html{
+  scroll-behavior: smooth;
+  
+}
+
+
+
+
+
+.image img {
+  border-radius: 100%;
+}
