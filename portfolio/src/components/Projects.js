@@ -10,7 +10,7 @@ export default function Projects() {
             {
                 image:blog,
                 description:' Blog website built with MERN stack',
-                link:'https://github.com/Divyapunitharaju/blog.git'
+                link:'https://github.com/Divyapunitharaju/blog-app-mern.git'
             },
             {
                 image:weather,
