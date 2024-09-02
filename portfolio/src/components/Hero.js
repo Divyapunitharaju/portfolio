@@ -5,7 +5,7 @@ import { FaGithub } from 'react-icons/fa';
 
 export default function Hero() {
    const config ={
-   link:'https://drive.google.com/file/d/1ek8m5HhbvIpoAeG9SO0g7voNI_emat9U/view?usp=drivesdk',
+   link:'https://drive.google.com/file/d/1VV5m69jc6SU_KftjazuA7XaJIaEFLVur/view?usp=sharing',
    social:{
     linkedin:'https://www.linkedin.com/in/divyapunitaharaju/',
     git:'https://github.com/Divyapunitharaju'
